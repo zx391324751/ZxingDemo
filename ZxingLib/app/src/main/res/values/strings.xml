@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZxingLib</string>
+
+    <string name="scan_tip">请将扫描框对准条形码</string>
+</resources>
